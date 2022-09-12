@@ -1,2 +1,2 @@
 # demo
-bioinf575
+this is to demonstrate repo for bioinf575
