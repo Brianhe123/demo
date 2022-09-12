@@ -1,2 +1,2 @@
-# demo
-this is to demonstrate repo for bioinf575
+## This is a demo repo for BIOINF 575
+We will test some git commands here and add new files
